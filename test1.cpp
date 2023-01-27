@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-cout<<"Hello"<<endl;
-cout<<"Welcome inti github"<<endl;
+cout<<"Hello:<<endl;
+
 return 0;
 
 }
